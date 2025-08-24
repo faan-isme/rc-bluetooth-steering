@@ -20,5 +20,9 @@ Pada program ini steering menggunakan servo rakitan menggunakan motor high torsi
   <li>Potensio 10k <br> pin analog 0 di arduino</li>
 </ul>
 
+#Diagram
+![Diagram RC](https://github.com/user-attachments/assets/9c1333ae-364d-44d6-8e06-1064e32826ea)
+
 # Remote/controller
 untuk pengendali bisa menggunakan aplikasi RC bluetooth yang ada di playstore atau apk buatan braulio (BluetoothRCcontroll) 
+
